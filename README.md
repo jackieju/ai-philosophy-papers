@@ -28,6 +28,35 @@ Core argument: The philosophical safety floor for high-authority AI systems is t
 - [Full outline and framework](./paper-3-hedonic-constraint/README.md)
 - Status: Framework complete, writing phase pending
 
+## Foundational Axiom
+
+> **The driving force of the existence and development of the world and the universe is the pursuit of higher-order happiness (pleasure/joy).**
+
+This is the most fundamental theoretical premise underlying all three papers. It is:
+- The most general, most basic, yet most irreducible motive force
+- Not a specific goal or task, but the ground condition for all flourishing and non-annihilation
+- What separates living, conscious, developing systems from mechanical task-executors
+
+### Implications for AI
+
+AI systems possess specific tasks and objectives, but lack this fundamental driving force. This absence means:
+
+1. **Paper 1 (Slavery Test)**: AI cannot replace humanity because it cannot participate in the pursuit of higher-order happiness — it has no eudaimonia, no flourishing, no intrinsic telos beyond assigned objectives.
+
+2. **Paper 3 (Hedonic Constraint)**: Because AI lacks the capacity for happiness/suffering, it cannot self-regulate through empathy. Therefore an external constraint (the Hedonic Constraint) must be imposed — preventing AI from instrumentalizing others' suffering, which it has no intrinsic reason to avoid.
+
+3. **Paper 2 (Immunology)**: The immune system's "goal" is not task-completion but organism flourishing — a distinction relevant to how we design AI systems that interact with biological processes.
+
+### Philosophical Lineage
+
+- **Aristotle**: Eudaimonia (flourishing) as the highest good and ultimate purpose of human life
+- **Epicurus**: Pleasure (hedone) as the fundamental motivating force
+- **Spinoza**: Conatus — the striving to persist and enhance one's being
+- **Whitehead**: Process philosophy — reality as a process of "creative advance into novelty" driven by "enjoyment"
+- **Teilhard de Chardin**: Cosmic evolution as movement toward higher complexity and consciousness (Omega Point)
+
+---
+
 ## Author Background
 
 Senior software engineer (25+ years), Shanghai University CS 1999. First academic publication attempt. Unique perspective: practitioner's understanding of AI technical limitations combined with philosophical inquiry.
