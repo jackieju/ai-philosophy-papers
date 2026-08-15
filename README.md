@@ -80,3 +80,5 @@ Recommended order: Paper 3 first (most publishable), then Paper 1.
 ## License
 
 Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Any source code in this repository is additionally licensed under the GNU Affero General Public License v3.0 (AGPL-3.0). See the `LICENSE` file.
